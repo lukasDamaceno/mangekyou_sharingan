@@ -1,3 +1,8 @@
+try:
+  from existence import death as relief
+except ImportError:
+  pass
+
 print(''' 
 ``````````````````$$$$$
 `````````````$$$$$$´´´´$$$$$$
